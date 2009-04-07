@@ -1,0 +1,1 @@
+*This gem is still under development and is not completed yet, but when it's done it will be a plugin for Authlogic to allow for LDAP authentication.**
